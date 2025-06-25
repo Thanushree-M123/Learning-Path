@@ -15,37 +15,37 @@ This folder contains the structured hands-on solutions for Week 1 of the DN 4.0 
 
 Week1 (1)/
 └── Week1/
-├── 1_EcommerceSearch/
-│ ├── Code/
-│ │ ├── Product.java
-│ │ ├── SearchEngine.java
-│ │ └── SearchTest.java
-│ └── Output/
-│ └── Output1.png
-├── 2_FactoryMethodPatternExample/
-│ ├── Code/
-│ │ ├── Document.java
-│ │ ├── DocumentFactory.java
-│ │ ├── ExcelDocument.java
-│ │ ├── ExcelFactory.java
-│ │ ├── FactoryTest.java
-│ │ ├── PdfDocument.java
-│ │ ├── PdfFactory.java
-│ │ ├── WordDocument.java
-│ │ └── WordFactory.java
-│ └── Output/
-│ └── Output2.png
-├── 3_FinancialForecasting/
-│ ├── Code/
-│ │ └── FinancialForecast.java
-│ └── Output/
-│ └── Output3.png
-└── 4_SingletonPatternExample/
-├── Code/
-│ ├── Logger.java
-│ └── SingletonTest.java
-└── Output/
-└── Output4.png
+    ├── 1_EcommerceSearch/
+    │   ├── Code/
+    │   │   ├── Product.java
+    │   │   ├── SearchEngine.java
+    │   │   └── SearchTest.java
+    │   └── Output/
+    │       └── Output1.png
+    ├── 2_FactoryMethodPatternExample/
+    │   ├── Code/
+    │   │   ├── Document.java
+    │   │   ├── DocumentFactory.java
+    │   │   ├── ExcelDocument.java
+    │   │   ├── ExcelFactory.java
+    │   │   ├── FactoryTest.java
+    │   │   ├── PdfDocument.java
+    │   │   ├── PdfFactory.java
+    │   │   ├── WordDocument.java
+    │   │   └── WordFactory.java
+    │   └── Output/
+    │       └── Output2.png
+    ├── 3_FinancialForecasting/
+    │   ├── Code/
+    │   │   └── FinancialForecast.java
+    │   └── Output/
+    │       └── Output3.png
+    └── 4_SingletonPatternExample/
+        ├── Code/
+        │   ├── Logger.java
+        │   └── SingletonTest.java
+        └── Output/
+            └── Output4.png
 
 
 
