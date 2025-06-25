@@ -1,8 +1,13 @@
-# Cognizant Hands-On Week 1 Submission
+# DN 4.0 – Java FSE – Week 1 Hands-on Solutions
 
-This repository contains Java-based hands-on assignments for Week 1 of the Cognizant Full Stack Engineer (FSE) training program.
+## 👩‍💻 Candidate Information:
+- **Name**: Thanushree M
+- **Super ID**: 6418309
+- **College**: PES College of Engineering, Mandya
 
-## 📁 Folder Structure
+---
+
+## 📁 Week 1 Folder Structure:
 
 ```
 Week1 (1)/
