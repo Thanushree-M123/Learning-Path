@@ -1,3 +1,11 @@
+# DN 4.0 – Java FSE – Week 2 Hands-on Solutions
+
+## 👩‍💻 Candidate Information:
+- *Name*: Thanushree M
+- *Super ID*: 6418309
+- *College*: PES College of Engineering, Mandya
+
+---
 # Cognizant Hands-On Week 2 Submission
 
 This repository contains the Week 2 skill-building assignments for the Cognizant Full Stack Engineer (FSE) training program. It includes work on PL/SQL, SLF4J Logging, Test-Driven Development (TDD) using JUnit5 and Mockito.
@@ -116,3 +124,7 @@ Week2_Skills_handson/
 ---
 
 **Please preserve this structure when uploading to GitHub to ensure proper evaluation.**
+
+## ✅ Status:
+- [x] Week 2 – Submitted
+- [ ] Week 3 – In Progress
