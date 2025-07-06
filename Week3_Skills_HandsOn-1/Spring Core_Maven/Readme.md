@@ -1,4 +1,4 @@
-# DN 4.0 – Java FSE – Week 1 Hands-on Solutions
+# DN 4.0 – Java FSE – Week 3 Hands-on Solutions
 
 ## 👩‍💻 Candidate Information:
 - *Name*: Thanushree M
