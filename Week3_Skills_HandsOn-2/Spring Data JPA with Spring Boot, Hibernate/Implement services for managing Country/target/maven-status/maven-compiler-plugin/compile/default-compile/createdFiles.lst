@@ -1,0 +1,3 @@
+com\example\jwtauth\AuthenticationController.class
+com\example\jwtauth\JwtAuthApplication.class
+com\example\jwtauth\SecurityConfig.class
