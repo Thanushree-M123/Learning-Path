@@ -62,10 +62,8 @@ This directory contains the hands-on exercises for Week 4 of the Learning Path. 
 ### 🛠️ How to Run
 
 1. Navigate to any project directory.
-2. Run:
- ```bash
- mvn spring-boot:run
-3.Access APIs on http://localhost:port/
+2. Run:mvn spring-boot:run
+3. Access APIs on http://localhost:port/
 
 ## ✅ Status:
 - [x] Week 4 – Submitted
