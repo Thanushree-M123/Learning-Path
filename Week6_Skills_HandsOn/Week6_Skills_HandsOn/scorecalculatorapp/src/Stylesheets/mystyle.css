@@ -1,0 +1,30 @@
+.heading {
+  color: brown;
+  text-align: center;
+}
+.blue {
+  color: blue;
+}
+.lightblue {
+  color: lightblue;
+}
+.red {
+  color: red;
+}
+.pink {
+  color: hotpink;
+}
+.brown {
+  color: brown;
+}
+.green {
+  color: green;
+}
+.lightgreen {
+  color: lightgreen;
+}
+.box {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 40px;
+}
