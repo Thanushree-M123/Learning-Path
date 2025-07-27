@@ -11,7 +11,9 @@
 This repository contains Java-based hands-on assignments for Week 1 of the Cognizant training program. The tasks demonstrate object-oriented programming concepts and design patterns such as Factory Method and Singleton.
 
 ## 📁 Folder Structure
-Week1 (1)/
+
+```
+Week1/
 └── Week1/
     ├── 1_EcommerceSearch/
     │   ├── Code/
@@ -44,6 +46,8 @@ Week1 (1)/
         │   └── SingletonTest.java
         └── Output/
             └── Output4.png
+```
+
 
 ## 📌 Description of Folders
 
