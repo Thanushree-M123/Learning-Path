@@ -12,7 +12,7 @@ This folder includes all the practical assignments from **Week 6** of the Cogniz
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - ✔️ Creating your first React app
 - ✔️ Functional vs Class Components
@@ -23,19 +23,7 @@ This folder includes all the practical assignments from **Week 6** of the Cogniz
 
 ---
 
-## 📁 Folder Structure
----
-Week6_Skills_HandsOn/
-├── 1_Myfirstreact/ # Basic CRA app setup
-├── 2_FunctionalComponent/ # Using functional components
-├── 3_ClassComponent/ # Working with class-based components
-├── 4_PropsandState/ # Props passing and state handling
-├── 5_EventHandling/ # Event handling in React
-├── 6_FormHandling/ # Controlled forms and input handling
-└── CohortDashboard/ # (Optional) Dashboard or advanced project
----
-
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - React.js (with Create React App)
 - JavaScript (ES6+)
@@ -43,6 +31,16 @@ Week6_Skills_HandsOn/
 - Bootstrap *(for styling, optional)*
 
 ---
+##  How to Run a Project
+
+For each folder (like `2_FunctionalComponent/`, `5_EventHandling/`, etc.):
+
+```bash
+cd <folder-name>
+npm install
+npm start
+Open your browser at http://localhost:3000
+```bash
 
 ## ✅ Status:
 - [x] Week 6 – Submitted
