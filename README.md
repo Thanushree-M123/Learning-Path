@@ -6,21 +6,21 @@ This repository contains hands-on assignments, projects, and exercises completed
 ---
 # DN 4.0 – Java FSE – All Week  Hands-on Solutions
 
-## 👩‍💻 Candidate Information:
+##  Candidate Information:
 - *Name*: Thanushree M
 - *Super ID*: 6418309
 - *College*: PES College of Engineering, Mandya
 
 ---
 
-## 📚 About the Program
+##  About the Program
 
 **Digital Nurture 4.0** is a career readiness and upskilling initiative by **Cognizant** aimed at final-year engineering students.  
 It focuses on industry-standard tools, technologies, and best practices for Full Stack Development using Java and related technologies.
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 - **Languages**: Java, SQL, JavaScript  
 - **Frameworks**: Spring Boot, JPA, Hibernate, React  
@@ -33,9 +33,9 @@ It focuses on industry-standard tools, technologies, and best practices for Full
 ---
 
 Each folder contains:
-- 📄 Project/Exercise files  
-- 📷 Output screenshots (where applicable)  
-- 📝 Supporting documentation  
+-  Project/Exercise files  
+-  Output screenshots (where applicable)  
+-  Supporting documentation  
 
 ---
 
